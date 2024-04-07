@@ -6,6 +6,9 @@ The system uses DeepFace to analyze the user's emotion from a video input and Op
 
 To recommend the playlist, the system utilizes the Spotipy library to search for songs and the KNN algorithm to select songs that match the user's emotional state. The recommended playlist is displayed using Streamlit, which makes it easy to use and accessible in a web browser.
 
+Demonstration Youtube Link: ![image](https://github.com/baranidharan-g23/feelingo_hackofest/assets/77617148/93364d84-76b5-4d71-8623-7578a37266d5)
+PPT is attached in the repository
+
 # Requirements
 ```
 -> Python 3.x
